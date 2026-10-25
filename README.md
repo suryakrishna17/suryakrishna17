@@ -2,7 +2,11 @@
 
 # Hi, Surya Krishna this side ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=9D7CD8&center=true&vCenter=true&width=750&lines=Building+accessible+AI+%26+intelligent+systems;Speech+diagnostics+%7C+Computer+Vision+%7C+Full+Stack;President+%40+CodeIO+%7C+BMSCE;Always+curious.+Always+building."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=9D7CD8&center=true&vCenter=true&width=750&lines=Building+accessible+AI+%26+intelligent+systems;Speech+diagnostics+%7C+Computer+Vision+%7C+Full+Stack;President+%40+CodeIO+%7C+BMSCE;Always+curious.+Always+building." alt="Typing SVG" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=suryakrishna17&style=flat-square&color=8A63D2&label=Profile+Views)
 
 ### Computer Science Undergrad @ BMSCE (9.5 CGPA) • President, CodeIO
 
@@ -16,27 +20,38 @@
 
 ---
 
-## ✦ Who Am I?
-
-```yaml
-Name: Surya Krishna
-Role: CS Undergrad & AI/ML Engineer
-College: B.M.S. College of Engineering (CGPA: 9.5 / 10.0)
-Location: Bengaluru, Karnataka, India
-Leadership: President @ CodeIO
-
-Building:
-  - Accessible & Assistive AI Systems
-  - Clinical Speech Diagnostics & Audio Processing Pipelines
-  - Full-Stack & Emergency Response Applications
-
-Currently:
-  - Advanced ASR, Diarization & Speech Diagnostics
-  - Multilingual GenAI & Multimodal Applications
-  - Scalable Distributed Systems & Clean Backend Architecture
-
-Philosophy: Learning by building impactful tech.
+```bash
+$ fetch --dev
+───────────────────────────────────────────────────────────────
+os          : Human.exe (Coffee-powered ☕)
+education   : B.E. in CSE @ B.M.S. College of Engineering (9.5 CGPA)
+role        : President @ CodeIO | AI/ML & Full-Stack Engineer
+stack       : React · FastAPI · Node.js · Express · Firebase · Capacitor
+ml / speech : Whisper · pyannote · XGBoost · scikit-learn · Librosa · Gemini
+uptime      : always shipping impactful software
+───────────────────────────────────────────────────────────────
 ```
+
+```ts
+// whoami.ts
+const surya: Engineer = {
+  location: "Bengaluru, Karnataka, India",
+  college: "B.M.S. College of Engineering (CGPA: 9.5 / 10.0)",
+  leadership: "President @ CodeIO",
+  focus: ["Accessible & Assistive AI", "Clinical Speech Diagnostics", "Full-Stack Systems"],
+  philosophy: "Learning by building impactful systems with empathy.",
+};
+
+export default surya;
+```
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryakrishna17/suryakrishna17/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryakrishna17/suryakrishna17/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/suryakrishna17/suryakrishna17/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 
@@ -53,71 +68,57 @@ Philosophy: Learning by building impactful tech.
 
 ## ✦ Tech Stack
 
-<table>
-<tr>
+<div align="center">
 
-<td valign="top" width="50%">
+**Languages & Core CS**  
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark" />  
+<br/>
+<sub>Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks</sub>
 
-### 💻 Languages & Core CS
+<br/><br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css"/>
-</p>
+**Frontend & Mobile**  
+<br/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express&theme=dark" />  
+<br/>
+<img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
 
-Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks
+<br/><br/>
 
----
+**Backend, Cloud & Databases**  
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,firebase,mysql&theme=dark" />  
+<br/>
+<img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/FCM_Push_Alerts-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Google_Cloud_Vision-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 
-### 🧠 AI & Machine Learning
+<br/><br/>
 
-<p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,opencv,pandas,numpy,jupyter" />
-</p>
+**AI / ML & Speech Intelligence**  
+<br/>
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,anaconda&theme=dark" />  
+<br/>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_Whisper-00A67E?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-016B9E?style=flat-square&logo=xgboost&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SHAP-1E1E1E?style=flat-square" />
+<img src="https://img.shields.io/badge/pyannote.audio-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/Librosa-FF4081?style=flat-square" />
 
-NLP • Computer Vision • Speech Processing • Whisper • pyannote.audio • XGBoost • Librosa • Parselmouth
+<br/><br/>
 
----
+**Developer Tools**  
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman&theme=dark" />  
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 
-### 🤖 Generative AI & Cloud
-
-Google Gemini • Groq • Google Cloud Vision • Prompt Engineering • Multimodal Pipelines
-
-</td>
-
-<td valign="top" width="50%">
-
-### 🌐 Frontend & Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express"/>
-</p>
-
-React • Tailwind CSS • Capacitor • WebSockets • REST APIs
-
----
-
-### 🗄️ Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,firebase,mysql"/>
-</p>
-
-FastAPI • Node.js • Firestore • Firebase Cloud Messaging • MySQL
-
----
-
-### 🛠️ Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman"/>
-</p>
-
-Git • GitHub • VS Code • Android Studio • Postman • n8n
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
@@ -141,17 +142,24 @@ Git • GitHub • VS Code • Android Studio • Postman • n8n
 
 ## ✦ GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=suryakrishna17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suryakrishna17&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=suryakrishna17&theme=tokyonight&hide_border=true"/>
-</p>
+<br/>
 
-<p align="center">
+<div align="center">
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=suryakrishna17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=suryakrishna17&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=suryakrishna17&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryakrishna17&theme=tokyo-night&hide_border=true"/>
-</p>
+</div>
 
 ---
 
@@ -163,6 +171,7 @@ Git • GitHub • VS Code • Android Studio • Postman • n8n
 
 <div align="center">
 
-*git commit -m 'shipping accessible intelligence'*
+*git commit -m 'shipping accessible intelligence'*  
+<sub>Snake animation powered by <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
 
 </div>
